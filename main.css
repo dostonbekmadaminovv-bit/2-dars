@@ -31,13 +31,15 @@ body {
 }
 .close {
   position: absolute;
-  margin-left: 630px;
+  /* margin-left: 630px; */
   cursor: pointer;
   padding: 5px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   width: 30px;
   height: 30px;
   border-radius: 50%;
+  top: 20px;
+  right: 20px;
 }
 .title {
   padding-top: 10px;
